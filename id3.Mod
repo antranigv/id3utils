@@ -1,6 +1,6 @@
 MODULE id3;
 
-IMPORT Out := Console, Strings, Files;
+IMPORT Out := Console, Files;
 
 CONST id3BufLen = 128;
       genresLen = 147;
